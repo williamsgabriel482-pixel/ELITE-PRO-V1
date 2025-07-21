@@ -4,7 +4,7 @@ const chalk = require('chalk');
 
 // Contact details
 global.sessionid = process.env.SESSION_ID || '';
-global.ytname = process.env.YT_NAME || "YT: @EliteProTech";
+global.ytname = process.env.YT_NAME || "YT: @EliteProTechs";
 global.socialm = process.env.SOCIAL_M || "GitHub: EliteProTech";
 global.location = process.env.LOCATION || "Nigeria, Port Harcourt";
 
@@ -38,13 +38,8 @@ global.packname = process.env.PACKNAME || 'Sticker By';
 global.author = process.env.AUTHOR || 'ELITEPRO\n\nContact: +2348109263390';
 // Default settings 2
 global.typemenu = process.env.TYPE_MENU || 'v2';
-global.wm = process.env.WM || "Youtube @EliteProTech";
+global.wm = process.env.WM || "Youtube @EliteProTechs";
 global.link = process.env.LINK || 'https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g';
-
-// Text bug
-global.xbugtex = {
-    xtxt: '👨‍💻ELITE-PRO👨‍💻',
-};
 
 // Reply messages
 global.mess = {
